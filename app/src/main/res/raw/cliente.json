@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agentedialogflowia-krvd",
+  "private_key_id": "c5db072f835f700299179d7b85678088363a7435",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE+2t3fG9notTB\nCK/YaR5GlIumujBInyKOjze6Gknsp7bVKivjdyHfVBUK6/BJeejNyYxeB216SVQN\nuD/1WW68nio3/X9fNE8+mzlHC5+G0na7MSfGXZoZDRle3ig9nQa6nM6zko6m1lDj\nj76l9otzF9x413MzIE5rDcgztqTvpMwZR2z7V2ChL1jhcPPvNx6chUM3iij9QZha\nGP0SkLjcx4Zv5r1j4oDPQX8wftBhqpfEQdYVaWHO1CDjXysdL9IAUr/EltwMOG59\nrEJ2AuhE8thm762rw6Jn0CkXQ+ULojGLWNY95efX6vn/s+yhuxLW+T6x/7AqHEAp\nnekq236pAgMBAAECggEAFtUfwVNapHQi3hcwLtEMcdjxEQve4eQUQNsH9hnq/LP6\nBN5lBPI/ql/YKpJroVCws/3LN/D7dyO9yvNS8pEBvXpF4YSQOYxaLSMX8gy+WoXV\nvl/1wNADtyimCrGMj4u+hm37paP0xhDsglwcmKcpxdb7tsQedcwmWtFXperjVmWa\n8OgL/w9mbzKjhGXun/Hmqz342Uw3Eq5NFAOaUfH8uNSLFA6IfMCAFXhusm3PHbnx\nWc9MiGE69163Abhf8EqnxFZK0W3p6naK6npI34Y1hK2iDvqr56ROOU13W/Cdx+V9\nzpVjiITi97feH6uOCLtxWuZv/6Nz+vNdVENGwbt3swKBgQD4jlXElAkL2KwPW9Kh\n+FvL+ARXgIiarBNrRy8y4poC+XqCby3fM9QFjgCuBwsjYBsaegcHAp4N60PLSekf\nCl8nVWJcTH/cdaM3wIST924QIpqeTaarLsHTJLniMWn+Wbi3d7U98Qmhecxl3u5k\nFJtL212xESQ+9WECOdNzPpEgSwKBgQDK4auvAUzmLWyZm6029UWf8eg5ZodqZY5c\n+/l3O93ADfSsxIfZpT9vlDRb/h0iJSmLjaQXltZ4e8M1UTrQhT1HZ8pRyT9xewjk\naOYfssM/U5d5Lk5a45T7Gg0a7EFEg7v1YaoHEwjPPE6saEsUG+khVkzzuBhEJxaX\nrL3fhVSMWwKBgGfLyLVWvJBd4zxmtAc/l9YNtIJ2ApXU1icuit9NEdO8KxTdKOLU\n2e2X52DFQDl9oNPlsZmT1j0pyh3St69mvWXHmlPA/oQp/AcENlk0Mpo6WSdSdg92\nbyqlY5q51/GHtkOnkeBUEBmGq3y/I/5XPKLo8K9I4UIJZoFvdIXj0ucRAoGAOMmB\n7LJIfAUq6LQSf9eXbXWgsrBoJvfWKWC+KwmuwBsn6VP5UopWfzzUiwtNzEjqoA09\naPzne0HpGftqowMoa9w5XTsfbvwpOQXDpAu9avRS6bB0bixVfxODp42Jl0voSH7V\nwLUrOhZ/TvLCURae4p3tXCqjYDAwurO3UeFYERECgYEAtkg+vOlhs8tgq0y/ceCj\nOB1W0vClid5Th1Md9Vas2ADBRtKLu1c5vUCNHhOsTg4A1smOMDD5hsr33olVjQAB\neZFu/5zoPORn9uWcwoaT3opsVwWl7nYV2Wpfu8NDyFimMyA/GGtQ3vNNmuFYbumy\nGeVpKUiTgpQ4SJ2BOnBgrJ4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowandroid@agentedialogflowia-krvd.iam.gserviceaccount.com",
+  "client_id": "114267784081046608132",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowandroid%40agentedialogflowia-krvd.iam.gserviceaccount.com"
+}
